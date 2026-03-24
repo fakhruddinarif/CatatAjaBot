@@ -49,5 +49,5 @@ bld/
 .DS_Store
 Thumbs.db
 
-Api/appsettings.json
+Api/appsettings.Production.json
 docker-compose.yml
